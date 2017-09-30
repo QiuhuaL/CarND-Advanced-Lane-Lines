@@ -22,8 +22,8 @@ The goals / steps of this project are the following:
 [image_warp2]: ./output_images/warp2.png "Road UnWarped 2"
 [image_grad]: ./output_images/gradientThresholded_x.png "Graident Thresholding x Orient"
 [image_color]: ./output_images/colorThresholded_s.png "Color Thresholding"
-[image_HLS]: ./output_images/colorThresholded_s.png "HLS channels"
-[image_x_s]: ./output_images/colorThresholded_x_s.png "Combined Thresholding"
+[image_HLS]: ./output_images/HLS.png "HLS channels"
+[image_x_s]: ./output_images/thresholded_x_s.png "Combined Thresholding"
 [image_test6_binary]: ./output_images/test6_binary.png "Image Test 6 Binary Warped"
 [image_test6_result]: ./output_images/test6_result.png "Image Test 6, Detection" 
  
